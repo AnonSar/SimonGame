@@ -2,7 +2,6 @@
 
 /*
  *
- * Assignment 1 web app
  *
  * Copyright (c) 2017  Monash University
  *
