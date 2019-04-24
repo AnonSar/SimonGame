@@ -381,7 +381,7 @@ function reloadOrientationValues(deviceAbsolute) //for getting the orientation v
 
     }
 
-function colourDisplayer() //function for displaying the current colour that user will be selecitng in the tilt mode
+function colourDisplayer() //function for displaying the current colour that the user will be selecitng in the tilt mode
 
 {
 
